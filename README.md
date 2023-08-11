@@ -1,6 +1,6 @@
 # Phone2Proc
 
-![my-file](https://github.com/allenai/phone2proc/assets/28768645/65c99bcd-daf3-4b2b-9fe0-c35bd79d71f3)
+![my-file](https://github.com/allenai/phone2proc/assets/28768645/fcf538f0-cd7d-4bb5-8b56-fb3e7cff1dc6)
 
 This repository contains the code for [Phone2Proc](https://arxiv.org/abs/2212.04819). It performs conditional procedural generation to build a dataset of houses based on a specified [RoomPlan USDZ file](https://developer.apple.com/augmented-reality/roomplan/). The backend uses AI2-THOR and ProcTHOR. The generated houses are in the ProcTHOR house JSON format (see [this tutorial](https://colab.research.google.com/drive/1Il6TqmRXOkzYMIEaOU9e4-uTDTIb5Q78) on loading them into ProcTHOR). 
 
