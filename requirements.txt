@@ -7,3 +7,4 @@ numpy
 shapely
 python-sat
 networkx
+matplotlib
