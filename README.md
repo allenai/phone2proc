@@ -12,6 +12,7 @@ To build the houses, install the requirements:
 
 ```bash
 pip install -r requirements.txt
+pip install --extra-index-url https://ai2thor-pypi.allenai.org ai2thor==0+391b3fae4d4cc026f1522e5acf60953560235971
 ```
 
 Then run:
