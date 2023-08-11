@@ -1,4 +1,5 @@
 ai2thor
+procthor==0.0.1.dev2
 torch
 trimesh
 Pillow
