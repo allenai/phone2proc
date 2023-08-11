@@ -25,7 +25,7 @@ It'll generate houses based on the specified RoomPlan layout. You may need to go
 
 Note that the RoomPlan scene must have all walls form an enclosed loop. Otherwise the generation will not work as it'll be underspecified how to generate the floorplan.
 
-## Citation
+## 📖 Citation
 
 To cite Phone2Proc, please use the following entry:
 
