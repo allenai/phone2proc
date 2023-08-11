@@ -1,4 +1,4 @@
-# Phone2Proc
+# 📱👉🏠 Phone2Proc
 
 ![my-file](https://github.com/allenai/phone2proc/assets/28768645/fcf538f0-cd7d-4bb5-8b56-fb3e7cff1dc6)
 
@@ -44,4 +44,9 @@ To cite Phone2Proc, please use the following entry:
 AI2-THOR is an open-source project built by the [PRIOR team](//prior.allenai.org) at the [Allen Institute for AI](//allenai.org) (AI2).
 AI2 is a non-profit institute with the mission to contribute to humanity through high-impact AI research and engineering.
 
+<br />
+
+<a href="//prior.allenai.org">
+<p align="center"><img width="100%" src="https://raw.githubusercontent.com/allenai/ai2thor/main/doc/static/ai2-prior.svg" /></p>
+</a>
 
