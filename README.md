@@ -8,7 +8,15 @@ To obtain RoomPlan USDZ files, you'll need to load a custom app onto your phone,
 
 See the [this tutorial](https://www.youtube.com/watch?v=wgqwrgNiA68) and the [RoomPlan tutorial](https://developer.apple.com/documentation/roomplan/create_a_3d_model_of_an_interior_room_by_guiding_the_user_through_an_ar_experience) for more help.
 
-To build the houses, use:
+To build the houses, setup:
+
+```bash
+conda create -n phone2proc python=3.8
+conda activate phone2proc
+pip install -r requirements.txt
+```
+
+Then run:
 
 ```bash
 python3 dmain_wrapper.py
